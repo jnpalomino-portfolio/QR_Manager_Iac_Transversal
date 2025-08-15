@@ -1,0 +1,2 @@
+# QR_Manager_Iac_Transversal
+Backup/prueba de repositorio QR_Manager_Iac_Transversal
